@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/News/22-11-30_HRB.html",
+      "/News/22-10-14_OHDSI.html",
+      "/News/22_09_28_AICRI_Launch.html",
+      "/News/22_09_09_BCNI_talk.html",
+      "/News/22_05_19_BrainStorm.html",
+      "/News/23-04-20_DELL_Technologies.html",
+      "/News/22-04-04_LimerickPost.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/People/AedinCulhane/index.html",
+      "/People/MarkLawlor/index.html",
+      "/People/RuthClifford/index.html"
+    ]
+  }
+]
