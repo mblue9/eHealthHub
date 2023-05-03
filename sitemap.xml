@@ -1,91 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mblue9.github.io/eHealthHub/Partners.html</loc>
-    <lastmod>2023-05-03T21:25:47.022Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/talks.html</loc>
-    <lastmod>2023-05-03T21:25:47.390Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/events.html</loc>
-    <lastmod>2023-05-03T21:25:47.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/contributing.html</loc>
-    <lastmod>2023-05-03T21:25:48.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/news.html</loc>
-    <lastmod>2023-05-03T21:25:49.175Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/projects.html</loc>
-    <lastmod>2023-05-03T21:25:49.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/docs/partners.html</loc>
-    <lastmod>2023-05-03T21:25:49.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/index.html</loc>
-    <lastmod>2023-05-03T21:25:50.112Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/publications.html</loc>
-    <lastmod>2023-05-03T21:25:52.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/about.html</loc>
-    <lastmod>2023-05-03T21:25:53.253Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/News/22_09_09_BCNI_talk.html</loc>
-    <lastmod>2023-05-03T21:25:53.573Z</lastmod>
-  </url>
-  <url>
     <loc>https://mblue9.github.io/eHealthHub/News/22-10-14_OHDSI.html</loc>
-    <lastmod>2023-05-03T21:25:53.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/News/22-04-04_LimerickPost.html</loc>
-    <lastmod>2023-05-03T21:25:54.178Z</lastmod>
+    <lastmod>2023-05-03T21:43:52.764Z</lastmod>
   </url>
   <url>
     <loc>https://mblue9.github.io/eHealthHub/News/23-04-20_DELL_Technologies.html</loc>
-    <lastmod>2023-05-03T21:25:54.488Z</lastmod>
+    <lastmod>2023-05-03T21:43:53.232Z</lastmod>
   </url>
   <url>
     <loc>https://mblue9.github.io/eHealthHub/News/22_09_28_AICRI_Launch.html</loc>
-    <lastmod>2023-05-03T21:25:54.809Z</lastmod>
+    <lastmod>2023-05-03T21:43:55.376Z</lastmod>
   </url>
   <url>
-    <loc>https://mblue9.github.io/eHealthHub/News/22_05_19_BrainStorm.html</loc>
-    <lastmod>2023-05-03T21:25:55.862Z</lastmod>
+    <loc>https://mblue9.github.io/eHealthHub/News/22-04-04_LimerickPost.html</loc>
+    <lastmod>2023-05-03T21:43:55.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/News/22_09_09_BCNI_talk.html</loc>
+    <lastmod>2023-05-03T21:43:56.260Z</lastmod>
   </url>
   <url>
     <loc>https://mblue9.github.io/eHealthHub/News/22-11-30_HRB.html</loc>
-    <lastmod>2023-05-03T21:25:56.598Z</lastmod>
+    <lastmod>2023-05-03T21:43:57.616Z</lastmod>
   </url>
   <url>
-    <loc>https://mblue9.github.io/eHealthHub/people.html</loc>
-    <lastmod>2023-05-03T21:25:57.054Z</lastmod>
+    <loc>https://mblue9.github.io/eHealthHub/News/22_05_19_BrainStorm.html</loc>
+    <lastmod>2023-05-03T21:43:58.048Z</lastmod>
   </url>
   <url>
-    <loc>https://mblue9.github.io/eHealthHub/People/RuthClifford/index.html</loc>
-    <lastmod>2023-05-03T21:25:57.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/People/AedinCulhane/index.html</loc>
-    <lastmod>2023-05-03T21:25:57.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mblue9.github.io/eHealthHub/People/MarkLawlor/index.html</loc>
-    <lastmod>2023-05-03T21:25:58.037Z</lastmod>
+    <loc>https://mblue9.github.io/eHealthHub/publications.html</loc>
+    <lastmod>2023-05-03T21:44:02.613Z</lastmod>
   </url>
   <url>
     <loc>https://mblue9.github.io/eHealthHub/footer.html</loc>
-    <lastmod>2023-05-03T21:25:58.313Z</lastmod>
+    <lastmod>2023-05-03T21:44:02.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/people.html</loc>
+    <lastmod>2023-05-03T21:44:03.745Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/events.html</loc>
+    <lastmod>2023-05-03T21:44:04.157Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/contributing.html</loc>
+    <lastmod>2023-05-03T21:44:04.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/People/RuthClifford/index.html</loc>
+    <lastmod>2023-05-03T21:44:05.089Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/People/AedinCulhane/index.html</loc>
+    <lastmod>2023-05-03T21:44:05.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/People/MarkLawlor/index.html</loc>
+    <lastmod>2023-05-03T21:44:06.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/talks.html</loc>
+    <lastmod>2023-05-03T21:44:06.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/projects.html</loc>
+    <lastmod>2023-05-03T21:44:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/about.html</loc>
+    <lastmod>2023-05-03T21:44:07.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/index.html</loc>
+    <lastmod>2023-05-03T21:44:08.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/Partners.html</loc>
+    <lastmod>2023-05-03T21:44:08.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mblue9.github.io/eHealthHub/news.html</loc>
+    <lastmod>2023-05-03T21:44:09.933Z</lastmod>
   </url>
 </urlset>

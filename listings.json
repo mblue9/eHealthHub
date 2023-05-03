@@ -1,10 +1,22 @@
 [
   {
-    "listing": "/talks.html",
+    "listing": "/publications.html",
     "items": []
   },
   {
+    "listing": "/people.html",
+    "items": [
+      "/People/AedinCulhane/index.html",
+      "/People/MarkLawlor/index.html",
+      "/People/RuthClifford/index.html"
+    ]
+  },
+  {
     "listing": "/events.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
     "items": []
   },
   {
@@ -17,18 +29,6 @@
       "/News/22_05_19_BrainStorm.html",
       "/News/23-04-20_DELL_Technologies.html",
       "/News/22-04-04_LimerickPost.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/People/AedinCulhane/index.html",
-      "/People/MarkLawlor/index.html",
-      "/People/RuthClifford/index.html"
     ]
   }
 ]
